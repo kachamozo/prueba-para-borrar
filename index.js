@@ -12,3 +12,4 @@ const persona = {
 };
 
 console.log(persona.edad);
+console.log(array);
